@@ -1,0 +1,24 @@
+{
+  "name": "WOOJS",
+  "version": "0.1.0",
+  "authors": [
+    "Ian Jamieson <cogocreative@gmail.com>"
+  ],
+  "description": "Woojs Packages",
+  "keywords": [
+    "woojs"
+  ],
+  "license": "MIT",
+  "homepage": "www.woocss.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "jquery": "1.11.1",
+      "zepto": "*"
+  }
+}
