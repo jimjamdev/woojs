@@ -19,6 +19,7 @@
   ],
   "dependencies": {
       "jquery": "1.11.1",
-      "zepto": "*"
+      "zepto": "*",
+      "firebolt": "https://github.com/woollybogger/Firebolt.git"
   }
 }
